@@ -9,21 +9,6 @@ This is a Python application for performing image steganography, utilizing Least
 - **Copy Text to Clipboard:** Provides an option to copy the extracted text message to the clipboard for easy sharing.
 
 
-## Installation
-
-To use the Image Steganography App, follow these steps:
-
-# 1. Clone the repository:
-
-git clone https://github.com/sparsh511/image-steganography-app.git
-
-# 2. Install the required dependencies:
-pip install -r requirements.txt
-
-# 3. Run the application:
-python image_steganography_app.py
-
-
 ## Usage
 **Select Image:** Click the "Select Image" button to choose an image file for encoding or decoding.
 
